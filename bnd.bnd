@@ -1,0 +1,4 @@
+Bundle-Name: commerce-next-best-order
+Bundle-SymbolicName: com.liferay.demo.commerce.nbo
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.demo.commerce.upload.constants
